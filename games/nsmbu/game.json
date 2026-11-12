@@ -1,0 +1,148 @@
+{
+  "name": "New Super Mario Bros. U",
+  "titleIds": [
+    "0005000010101C00",
+    "0005000010101D00",
+    "0005000010101E00",
+    "000500001014B700",
+    "000500001014B800"
+  ],
+  "mods": [
+    {
+      "id": "nsmbu-volcanic-2",
+      "name": "Volcanic Super Mario Bros. U 2",
+      "type": "mod",
+      "version": "2022.05.11",
+      "author": "WillyMaker",
+      "description": "WillyMaker's third level hack and the sequel to Volcanic Super Mario Bros. U, with 3 new Time Attack challenges.\n\nKnown issue: don't return to World 1 after entering the custom World 8 pipe, or most sound and music will be muted. If the game crashes at the title screen, you need the NSMBU 1.3.0 update installed.\n\nSource: https://gamebanana.com/mods/376839",
+      "download": "https://gamebanana.com/dl/797461",
+      "fileSize": 441944469,
+      "sha256": "fcc0faac736167123effa8c1a8f53c1d8c7fa0ae4243bda9c8ac7b749833ffba",
+      "tags": [
+        "levels",
+        "full-mod"
+      ],
+      "releaseDate": "2022-05-11",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_627be632de823.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/627be632de823.jpg",
+        "https://images.gamebanana.com/img/ss/mods/627be0d2846ee.jpg",
+        "https://images.gamebanana.com/img/ss/mods/627be0d76f6ac.jpg"
+      ]
+    },
+    {
+      "id": "nsmbu-deserted",
+      "name": "Deserted Super Mario Bros. U",
+      "type": "mod",
+      "version": "2022.05.11",
+      "author": "WillyMaker",
+      "description": "Desert-themed level hack by WillyMaker.\n\nThe author notes some world-map problems on Wii U that can cause crashes. If the game crashes at the title screen, you need the NSMBU 1.3.0 update installed.\n\nSource: https://gamebanana.com/mods/376838",
+      "download": "https://gamebanana.com/dl/797454",
+      "fileSize": 434757335,
+      "sha256": "21f8e02b0a12f79fd028260f47ee1e57427e94486a5590013438314291c188eb",
+      "tags": [
+        "levels",
+        "full-mod"
+      ],
+      "releaseDate": "2022-05-11",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_627be36f7e0d8.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/627be36f7e0d8.jpg",
+        "https://images.gamebanana.com/img/ss/mods/627be36fecebf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/627be375373f9.jpg"
+      ]
+    },
+    {
+      "id": "nsmbu-volcanic",
+      "name": "Volcanic Super Mario Bros. U",
+      "type": "mod",
+      "version": "2022.05.11",
+      "author": "WillyMaker",
+      "description": "WillyMaker's first NSMBU level hack, with new volcanic-themed levels.\n\nSource: https://gamebanana.com/mods/376841",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nsmbu-volcanic.zip",
+      "fileSize": 495012868,
+      "sha256": "5aab95e0d2b6acb21a37613e359654234dcffd880851d83ec7c5089aafebd621",
+      "tags": [
+        "levels",
+        "full-mod"
+      ],
+      "releaseDate": "2022-05-11",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_627be8815ae58.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/627be8815ae58.jpg",
+        "https://images.gamebanana.com/img/ss/mods/627bdf8357e82.jpg",
+        "https://images.gamebanana.com/img/ss/mods/627bdf87c2a69.jpg"
+      ]
+    },
+    {
+      "id": "nsmbu-moonlite-world",
+      "name": "Super Mario Moonlite World",
+      "type": "mod",
+      "version": "1.0",
+      "author": "Rimea",
+      "description": "15 night-themed levels with dozens of custom tilesets, custom backgrounds, an almost entirely original soundtrack and Odyssey-style moons to collect.\n\nOriginally made by VK, completed and released by Rimea.\n\nSource: https://gamebanana.com/mods/366857",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nsmbu-moonlite-world.zip",
+      "fileSize": 363158911,
+      "sha256": "4c30cce4caf42fd7443183dad823a9a891a51702f59f952c559e382acfc338f4",
+      "tags": [
+        "levels",
+        "full-mod",
+        "music"
+      ],
+      "releaseDate": "2022-03-26",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_623e70099ce58.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/623e70099ce58.jpg",
+        "https://images.gamebanana.com/img/ss/mods/623e7007e9fa1.jpg",
+        "https://images.gamebanana.com/img/ss/mods/623e700518bd4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/623e7005bf1e9.jpg"
+      ]
+    },
+    {
+      "id": "nsmbu-saves-christmas",
+      "name": "Super Mario Saves Christmas",
+      "type": "mod",
+      "version": "2.0",
+      "author": "Rimea",
+      "description": "A festive mod by Rimea with 8 Christmas-themed levels, custom tilesets and backgrounds, a soundtrack of familiar holiday tunes and Christmas tweaks to enemies and objects.\n\nSource: https://gamebanana.com/mods/366629",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nsmbu-saves-christmas.zip",
+      "fileSize": 349522465,
+      "sha256": "a014b372eea5b33c2b8231eb35dbee24497b12ade0898f613e0c1b73663871f6",
+      "tags": [
+        "levels",
+        "full-mod"
+      ],
+      "releaseDate": "2022-03-25",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_623d276241bcd.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/623d276241bcd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/623d2769dd44e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/623d2762b6d1d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/623d2764cdd7b.jpg"
+      ]
+    },
+    {
+      "id": "nsmbu-sonic-shadow",
+      "name": "Sonic and Shadow",
+      "type": "mod",
+      "version": "1.0",
+      "author": "MemeHog",
+      "description": "Replaces Mario with Sonic the Hedgehog and Luigi with Shadow the Hedgehog.\n\nSource: https://gamebanana.com/mods/491549",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nsmbu-sonic-shadow.zip",
+      "fileSize": 21678926,
+      "sha256": "29e372a0326425840d1852007cbb53dceecde630f8ad9f872356f8fec33227ce",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2024-01-22",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_65b87a6754905.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/65b87a6754905.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65ae054f8b846.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65ae054ee6579.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65ae054f6eb6c.jpg"
+      ]
+    }
+  ]
+}

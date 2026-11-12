@@ -1,0 +1,189 @@
+{
+  "name": "Twilight Princess HD",
+  "titleIds": [
+    "000500001019C800",
+    "000500001019E500",
+    "000500001019E600"
+  ],
+  "mods": [
+    {
+      "id": "linklehd",
+      "name": "Linkle HD",
+      "type": "mod",
+      "version": "5",
+      "author": "Ditrey",
+      "description": "Replaces Link with Linkle from Hyrule Warriors.\n\n- Linkle models for all 6 main outfits, including Wolf Linkle\n- All of Link's voice clips replaced with Linkle's\n- English dialogue adjusted to feminine pronouns\n- Updated armor and dungeon map icons\n- Cutscene models replaced\n\nSource: https://gamebanana.com/mods/660889",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/linklehd.zip",
+      "fileSize": 640337323,
+      "sha256": "4655c7b131aa79ab3b0bc83b688bd9b807b1ee4348a619cb1b7a795e34bfdb40",
+      "tags": [
+        "skin",
+        "character",
+        "audio",
+        "text"
+      ],
+      "releaseDate": "2026-04-10",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_69b88b5b32f63.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/69b88b5b32f63.jpg",
+        "https://images.gamebanana.com/img/ss/mods/69b88b70965aa.jpg",
+        "https://images.gamebanana.com/img/ss/mods/69b88b700874f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/69b88b7058ea3.jpg"
+      ]
+    },
+    {
+      "id": "twilightprincesshd-ganondorfspeech",
+      "name": "Restored Ganondorf's Cut Monologue",
+      "type": "mod",
+      "version": "2026.10.13",
+      "author": "Sven Cakemann",
+      "description": "Restores the longer, cut version of Ganondorf's post-defeat speech, which acknowledges the reincarnation cycle of Link, Zelda and Ganondorf. Supports all official languages.\n\nPort/remake of the mod by kelpoo.\n\nSource: https://gamebanana.com/mods/629593",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/twilightprincesshd-ganondorfspeech.zip",
+      "fileSize": 971354,
+      "sha256": "bb551952a610fe89d8987a196b01e9bd10d61a56254c2308360ab8d4757d13e5",
+      "tags": [
+        "text",
+        "restoration"
+      ],
+      "releaseDate": "2026-10-13",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_68fe61bdb33c4.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/68fe61bdb33c4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68fe61c3de22d.jpg"
+      ]
+    },
+    {
+      "id": "tphd-hatless-link",
+      "name": "Hatless Link",
+      "type": "mod",
+      "version": "2024.02.28",
+      "author": "Captain Kitty Cat",
+      "description": "Removes Link's hat, using Ordon Link's head model. Only applies to the green Hero's Clothes.\n\nSource: https://gamebanana.com/mods/498206",
+      "download": "https://gamebanana.com/dl/1147262",
+      "fileSize": 3968216,
+      "sha256": "2323c413c57e767efaf77dde816c4c58f58b71d0ad1f01f104a0273f994c8354",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2024-02-28",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_65deb69868e21.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/65deb69868e21.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65deb781970e1.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65deb7852eda5.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65deb7888dcfb.jpg"
+      ]
+    },
+    {
+      "id": "tphd-waluigi",
+      "name": "Waluigi",
+      "type": "mod",
+      "version": "1.0.1",
+      "author": "Captain Kitty Cat",
+      "description": "Play as Waluigi instead of Link. The Ordon Sword becomes a tennis racket and the Master Sword a baseball bat, with custom text, audio and icons.\n\nSource: https://gamebanana.com/mods/484496",
+      "download": "https://gamebanana.com/dl/1104775",
+      "fileSize": 116542677,
+      "sha256": "f4a973472a3fc83c7151f6884d7c4e6d7e465234a72d8dc8109374a04c82652e",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2023-12-18",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_657effce92a3d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/657effce92a3d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/657e54ba552ed.jpg",
+        "https://images.gamebanana.com/img/ss/mods/657e54ca41e65.jpg",
+        "https://images.gamebanana.com/img/ss/mods/657e58d83b25b.jpg"
+      ]
+    },
+    {
+      "id": "tphd-ui-dark-mode",
+      "name": "UI Dark Mode",
+      "type": "mod",
+      "version": "2",
+      "author": "Unithrex",
+      "description": "Replaces most of the white buttons on the TV screen with black buttons.\n\nSource: https://gamebanana.com/mods/516855",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/tphd-ui-dark-mode.zip",
+      "fileSize": 2645413,
+      "sha256": "a54027cc5ea9fe18b859aab1cd57cfac00c298ea5c27376dc704417ef269c105",
+      "tags": [
+        "ui"
+      ],
+      "releaseDate": "2024-06-01",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6658246b29ffb.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6658246b29ffb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6658248e1dfa1.jpg"
+      ]
+    },
+    {
+      "id": "tphd-ps5-control-layout",
+      "name": "PS5 DualSense Control Layout",
+      "type": "mod",
+      "version": "2024.10.11",
+      "author": "CompC",
+      "description": "Replaces the button icons with custom-drawn PS5 DualSense button icons. Circle maps to A and Cross maps to B.\n\nSource: https://gamebanana.com/mods/547823",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/tphd-ps5-control-layout.zip",
+      "fileSize": 15644241,
+      "sha256": "a61a4d6bc2d1ad4c79d6e606afd7aff374d6b33dacc5512d12a9ad5f34249a29",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2024-10-11",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6708baa3c9364.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6708baa3c9364.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6708bad537c1f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6708baa336936.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6708bec645d02.jpg"
+      ]
+    },
+    {
+      "id": "tphd-xbox-buttons",
+      "name": "Xbox Controller Buttons",
+      "type": "mod",
+      "version": "2024.09.21",
+      "author": "jeicy03",
+      "description": "Replaces the Wii U button icons with Xbox buttons (A/B and X/Y swapped, ZR/ZL shown as RT/LT).\n\nSource: https://gamebanana.com/mods/543255",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/tphd-xbox-buttons.zip",
+      "fileSize": 12602521,
+      "sha256": "1a2116054bc9e96b9a72687f1607b425d6ce58cee1495c3881cb11bb076c49e8",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2024-09-21",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_66ed0e901d18b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66ed0e901d18b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66ed0e99961d6.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66ed0e9ee2040.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66ed0ea2ee645.jpg"
+      ]
+    },
+    {
+      "id": "tphd-canoe-dogs",
+      "name": "Canoe Dogs Restoration",
+      "type": "mod",
+      "version": "2023.07.07",
+      "author": "Sven Cakemann",
+      "description": "Adds a canoe and a dog to Ordon Village and Lake Hylia. The dog follows Link and jumps into and out of the boat with him, restoring something seen in a pre-release screenshot.\n\nKnown minor issue: using the fishing rod in a boat outside the fishing hole can leave the fishing HUD on screen until you leave the area.\n\nSource: https://gamebanana.com/mods/454590",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/tphd-canoe-dogs.zip",
+      "fileSize": 5065296,
+      "sha256": "16d53e9159a34add0c4884e4a6a8ad744dff0e5e81c05ce2c7521b457a0f7329",
+      "tags": [
+        "restoration"
+      ],
+      "releaseDate": "2023-07-07",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_64a77370a862d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/64a77370a862d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64a7736cf3b3c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64a7736b816ef.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64a7736d51c95.jpg"
+      ]
+    }
+  ]
+}

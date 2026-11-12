@@ -1,13 +1,24 @@
 {
   "formatVersion": 1,
-  "name": "CupStore Template Repo",
-  "description": "Official template repository for CupStore. Fork this to host your own mods.",
-  "author": "your-name",
-  "version": "1",
+  "name": "Wii U Mods",
+  "author": "JacksonHoggard",
+  "description": "Popular Wii U mods, packaged for CoffeeShop",
+  "version": "2",
   "games": [
     {
-      "id": "mario-kart-8",
       "path": "games/mario-kart-8/game.json"
+    },
+    {
+      "path": "games/tphd/game.json"
+    },
+    {
+      "path": "games/wwhd/game.json"
+    },
+    {
+      "path": "games/nsmbu/game.json"
+    },
+    {
+      "path": "games/botw/game.json"
     }
   ]
 }

@@ -1,0 +1,145 @@
+{
+  "name": "The Wind Waker HD",
+  "titleIds": [
+    "0005000010143400",
+    "0005000010143500",
+    "0005000010143600"
+  ],
+  "mods": [
+    {
+      "id": "wwhd-linkle",
+      "name": "Linkle Mod",
+      "type": "mod",
+      "version": "1.0",
+      "author": "pokisofiii",
+      "description": "Fully replaces Link with Toon Linkle, a custom model made from scratch. Includes SariaOfTheKokiri's female dialogue patch.\n\nSource: https://gamebanana.com/mods/359761",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-linkle.zip",
+      "fileSize": 31833383,
+      "sha256": "00a1cc80daf140a0d2c147e50a45c6f1750c715e615dde65f8c38e126c6b3ba4",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2022-02-22",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6215323ee012f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6215323ee012f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6215227c83f55.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6215227c8b215.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6215227ca4fbf.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-female-dialogue",
+      "name": "Updated Female Dialogue Patch",
+      "type": "mod",
+      "version": "1.4",
+      "author": "JuniperPlumdrop",
+      "description": "Changes the dialogue to refer to the player as female. Updated version of SariaOfTheKokiri's patch that fixes missed lines and typos, and makes the opening crawl refer to the Hero of Time as a \"youth\". Includes the Linkle map icons.\n\nSource: https://gamebanana.com/mods/606976",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-female-dialogue.zip",
+      "fileSize": 9704963,
+      "sha256": "d14cf611124386315913885b85e62e3c0388ea4bd3c94266facb4dbfdb9d8824",
+      "tags": [
+        "text"
+      ],
+      "releaseDate": "2025-08-05",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_68757e78454c0.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/68757e78454c0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68757e784f4b8.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68757ff5668f6.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-playstation-ui",
+      "name": "PlayStation UI",
+      "type": "mod",
+      "version": "2",
+      "author": "pivotiii",
+      "description": "Replaces the Nintendo button prompts with PlayStation buttons. Supports the US (EN) and EU (EN, DE, FR, IT, ES) versions.\n\nSource: https://gamebanana.com/mods/385841",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-playstation-ui.zip",
+      "fileSize": 57983671,
+      "sha256": "162bee858394e33c5eee123309b14813225481da20e5ed6c5fd2ec5fd355818e",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2024-01-22",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/62b9a7c060e4b.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/62b9a7c060e4b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62b99f9dc8a4a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62b99f9db6455.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62b9be087cbee.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-toon-imp-midna",
+      "name": "Toon Imp Midna",
+      "type": "mod",
+      "version": "1.2",
+      "author": "OniFox",
+      "description": "Replaces Link with a custom toon-styled Imp Midna, with a Midna voice pack. Also swaps the Hero's Charm for the Ordon Shield, the Hero's Clothes for the Fused Shadow, and the map icon for Midna's face.\n\nSource: https://gamebanana.com/mods/531825",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-toon-imp-midna.zip",
+      "fileSize": 26035284,
+      "sha256": "d475f11137c740babf6b1b0027b5044ce29281b23643ccd53388586abd9688a6",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2024-09-01",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_66c6bc8c74d70.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66c6bc8c74d70.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66c6bd171cb39.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66c6bd17b19ae.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66c6bd1795664.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-saria",
+      "name": "Saria",
+      "type": "mod",
+      "version": "2021.03.24",
+      "author": "SariaOfTheKokiri",
+      "description": "Replaces Link with a custom Saria model, including UI elements and script edits, plus a casual outfit for the start of the game. Made for the US version.\n\nSource: https://gamebanana.com/mods/248073",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-saria.zip",
+      "fileSize": 42157066,
+      "sha256": "0d84bdd7ee4d2fc26188228f7c3aa5f441d76ec46a5981ecb79be31ac4ced24b",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2021-03-24",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_602e9bcb35399.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/602e9bcb35399.jpg",
+        "https://images.gamebanana.com/img/ss/mods/605b6da120747.jpg",
+        "https://images.gamebanana.com/img/ss/mods/605b6dc721f49.jpg",
+        "https://images.gamebanana.com/img/ss/mods/605b6dd164e37.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-tan-zelda",
+      "name": "Tan Zelda",
+      "type": "mod",
+      "version": "3",
+      "author": "Zeldary",
+      "description": "Gives Princess Zelda the same skin tone as Tetra. The author notes it is a little glitchy; the Princess Zelda figurine is a known issue.\n\nSource: https://gamebanana.com/mods/405462",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-tan-zelda.zip",
+      "fileSize": 7244260,
+      "sha256": "3afa3880c20ffb3febb94bbbe33238f70013dc9022fb35719f11558c6ce0370f",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2024-02-21",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_633f85e5b5518.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/633f85e5b5518.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65f711ef977e3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65f711efa733d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65f711efaa518.jpg"
+      ]
+    }
+  ]
+}

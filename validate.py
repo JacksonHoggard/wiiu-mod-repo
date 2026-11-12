@@ -30,7 +30,8 @@ def validate_url(url, field, context):
 
 def check_url_reachable(url, context):
     try:
-        req = urllib.request.Request(url, method='HEAD')
+        # Some hosts (e.g. GameBanana) reject Python's default User-Agent; use CoffeeShop's.
+        req = urllib.request.Request(url, method='HEAD', headers={"User-Agent": "WiiUModStore/0.1"})
         urllib.request.urlopen(req, timeout=10)
     except Exception as e:
         warn(f"{context}: URL not reachable: {url} ({e})")

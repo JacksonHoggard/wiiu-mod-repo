@@ -1,0 +1,176 @@
+{
+  "name": "Breath of the Wild",
+  "titleIds": [
+    "00050000101C9300",
+    "00050000101C9400",
+    "00050000101C9500"
+  ],
+  "mods": [
+    {
+      "id": "botw-linkle",
+      "name": "Linkle Mod",
+      "type": "mod",
+      "version": "2020.01.09",
+      "author": "lynard killer",
+      "description": "Replaces Link with Linkle from Hyrule Warriors. Most armors and sound effects are changed to match Linkle.\n\nSource: https://gamebanana.com/mods/168235",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/botw-linkle.zip",
+      "fileSize": 249847415,
+      "sha256": "4550c768c910b8511d058e8851b791fe2791ca58f8da1dbdb0c35d9a906193e0",
+      "tags": [
+        "skin",
+        "character",
+        "audio"
+      ],
+      "releaseDate": "2020-01-09",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5b03ae09c75ab.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5b03ae09c75ab.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5d88ad9dbecfb.webp",
+        "https://images.gamebanana.com/img/ss/mods/5d88ad9e12775.webp",
+        "https://images.gamebanana.com/img/ss/mods/5d88ad99539e8.webp"
+      ]
+    },
+    {
+      "id": "botw-relics-of-the-past",
+      "name": "Relics of the Past",
+      "type": "mod",
+      "version": "3.1.2",
+      "author": "ShadowMarth-JTW",
+      "description": "A difficulty overhaul that adds newly placed enemies and objects across the whole map, similar to how the DLC adds Master Mode placements, plus a reworked scaling system and New Game Plus.\n\nRequires the DLC (aoc).\n\nSource: https://gamebanana.com/mods/414822",
+      "download": "https://gamebanana.com/dl/1771936",
+      "fileSize": 251568044,
+      "sha256": "4b77d5a1ca5286a3a24a2b57298b53b576a7f8a9fd7fa2a685c7227f8e5c8f46",
+      "tags": [
+        "gameplay",
+        "difficulty",
+        "overhaul"
+      ],
+      "releaseDate": "2026-08-02",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6388b7c984afd.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6388b7c984afd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64495ac31552b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64495b324ce59.jpg",
+        "https://images.gamebanana.com/img/ss/mods/64495ac2a05be.jpg"
+      ],
+      "requirements": [
+        "DLC installed"
+      ]
+    },
+    {
+      "id": "botw-hd-map-and-icons",
+      "name": "HD Icons and Map",
+      "type": "mod",
+      "version": "2021.09.17",
+      "author": "N8endo",
+      "description": "Replaces all menu icons with 3x resolution versions and all fully revealed map tiles with 1.5x resolution versions.\n\nSource: https://gamebanana.com/mods/33468",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/botw-hd-map-and-icons.zip",
+      "fileSize": 248469732,
+      "sha256": "3454d087bb83cde4f59fa870e3ba70e05cc5617feef9e75d9150243248f083d7",
+      "tags": [
+        "ui",
+        "textures"
+      ],
+      "releaseDate": "2021-09-17",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6102bee42820a.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6102bee42820a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6102bee2632cc.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6102bee250bca.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5eb1481ce3c10.jpg"
+      ]
+    },
+    {
+      "id": "botw-ultimate-ps5-ui",
+      "name": "Ultimate PS5 UI (Standard Layout)",
+      "type": "mod",
+      "version": "1.3a",
+      "author": "Proofeek",
+      "description": "Replaces the entire Wii U UI with PS5 buttons, including tips and tutorials. Standard layout (default controls).\n\nSource: https://gamebanana.com/mods/406620",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/botw-ultimate-ps5-ui.zip",
+      "fileSize": 30325401,
+      "sha256": "11b40993d65271f7363b8744a4365579b774e677617b1d410313615e21525a6d",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2023-05-10",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_642d9384c5028.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/642d9384c5028.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63fe089e39bb5.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63fe08b126c09.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63fe08bb3e369.jpg"
+      ]
+    },
+    {
+      "id": "botw-moon-slayer-set",
+      "name": "Moon Slayer Set (Balanced)",
+      "type": "mod",
+      "version": "2020.03.11",
+      "author": "Lylari",
+      "description": "Adds the custom Moon Slayer armor set and weapons, including the Midnight Sun bow. Balanced stats version.\n\nSource: https://gamebanana.com/mods/49668",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/botw-moon-slayer-set.zip",
+      "fileSize": 30590352,
+      "sha256": "1169469bd6c7c07596d703747a53dfed1751d2aa42b47203dc2686439d5ef27f",
+      "tags": [
+        "armor",
+        "weapons"
+      ],
+      "releaseDate": "2020-03-11",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5e632b3f43529.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5e632b3f43529.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5dfcb60ae007e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5deab0da27a3b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5deab21f1de44.jpg"
+      ],
+      "requirements": [
+        "DLC installed"
+      ]
+    },
+    {
+      "id": "botw-lylah-music-overhaul",
+      "name": "Lylari's Music Overhaul",
+      "type": "mod",
+      "version": "2021.12.29",
+      "author": "Lylari",
+      "description": "Replaces music throughout the game, including towns, Guardian themes, cutscenes and minigames.\n\nNote: one track (King's flashback on the Great Plateau) can trigger copyright claims on videos.\n\nSource: https://gamebanana.com/mods/49554",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/botw-lylah-music-overhaul.zip",
+      "fileSize": 866476051,
+      "sha256": "73a3c0d7e07d7c5f9a940d936329bee5f02b6098e651b917a036b787a05da897",
+      "tags": [
+        "music",
+        "audio"
+      ],
+      "releaseDate": "2021-12-29",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_66e777a8912b8.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66e777a8912b8.jpg"
+      ]
+    },
+    {
+      "id": "botw-qnando-zelda",
+      "name": "QNando's Zelda Mod",
+      "type": "mod",
+      "version": "2018.07.20",
+      "author": "QNando",
+      "description": "Replaces Link with Zelda (cosmetic only). Includes a no-armor model, Hylian set, Champion's Tunic, Snowquill set, a new paraglider texture and Zelda's voice by Queeropatra.\n\nSource: https://gamebanana.com/mods/167741",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/botw-qnando-zelda.zip",
+      "fileSize": 75475665,
+      "sha256": "7f04a8edea33f6bf8acc998314af240c83fa3e4e4e82b6598d8ef9c45fb641ee",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2018-07-20",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5b15a684d5414.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5b15a684d5414.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b159af15cc5e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b512f2945af6.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b15a648f359e.jpg"
+      ]
+    }
+  ]
+}
