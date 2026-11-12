@@ -31,6 +31,7 @@ Title IDs: `000500001010EB00`, `000500001010EC00`, `000500001010ED00`
 
 | Mod | Type | Version | Author | Size |
 |-----|------|---------|--------|------|
+| Mario Kart Generations (needs DLC) | Modpack | 1.3.1 | UNREALII- | 2,690 MB |
 | [CTGP-Universe Zeta](https://gamebanana.com/mods/49460) (needs DLC) | Modpack | 2020.04.12 | Lloyd Nabbit | 675 MB |
 | [Mario Kart: DatPags Edition](https://gamebanana.com/mods/49461) | Modpack | 2018.07.19 | DatPags | 172 MB |
 | [Sonic The Hedgehog](https://gamebanana.com/mods/172388) | Mod | 2017.06.18 | CorBond | 9 MB |
@@ -123,7 +124,7 @@ games/
   botw/game.json
 ```
 
-Mod ZIPs aren't stored in git. Mods whose GameBanana download already has the right layout link straight to GameBanana. The rest are repackaged (with `content/` moved to the ZIP root and a `CREDITS.txt` added) and uploaded as assets on the [`mods-v1` release](https://github.com/JacksonHoggard/wiiu-mod-repo/releases/tag/mods-v1). Release assets must be under 2 GB.
+Mod ZIPs aren't stored in git. Mods whose GameBanana download already has the right layout link straight to GameBanana. The rest are repackaged (with `content/` moved to the ZIP root and a `CREDITS.txt` added) and uploaded as assets on the [`mods-v1` release](https://github.com/JacksonHoggard/wiiu-mod-repo/releases/tag/mods-v1). Release assets must be under 2 GB, so Mario Kart Generations (2.7 GB) is hosted on the [Internet Archive](https://archive.org/details/mario-kart-generations-wiiu-v1.3.1) instead.
 
 ### Mod fields
 

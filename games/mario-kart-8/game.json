@@ -8,6 +8,26 @@
   ],
   "mods": [
     {
+      "id": "mario-kart-generations",
+      "name": "Mario Kart Generations",
+      "type": "modpack",
+      "version": "1.3.1",
+      "author": "UNREALII-",
+      "description": "The newest Mario Kart 8 modpack.\n\nIncludes:\n- Custom menus\n- 48 custom tracks\n- Custom music",
+      "download": "https://archive.org/download/mario-kart-generations-wiiu-v1.3.1/mario-kart-generations.zip",
+      "fileSize": 2820389327,
+      "sha256": "4808f01d4d4fd7da2ca71cda16593189a72127199da0b7bb1572b944d57c589f",
+      "tags": [
+        "course",
+        "music",
+        "ui"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/sgi_common_thumbs_6474e711986c9_530.webp",
+      "requirements": [
+        "DLC installed"
+      ]
+    },
+    {
       "id": "ctgp-u-zeta",
       "name": "CTGP-Universe Zeta",
       "type": "modpack",
