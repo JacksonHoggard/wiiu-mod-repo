@@ -3,7 +3,7 @@
   "name": "Wii U Mods",
   "author": "JacksonHoggard",
   "description": "Popular Wii U mods, packaged for CoffeeShop",
-  "version": "4",
+  "version": "5",
   "games": [
     {
       "path": "games/mario-kart-8/game.json"
@@ -37,6 +37,24 @@
     },
     {
       "path": "games/minecraft/game.json"
+    },
+    {
+      "path": "games/hyrule-warriors/game.json"
+    },
+    {
+      "path": "games/paper-mario-color-splash/game.json"
+    },
+    {
+      "path": "games/mario-tennis-ultra-smash/game.json"
+    },
+    {
+      "path": "games/nintendo-land/game.json"
+    },
+    {
+      "path": "games/wii-party-u/game.json"
+    },
+    {
+      "path": "games/captain-toad/game.json"
     }
   ]
 }

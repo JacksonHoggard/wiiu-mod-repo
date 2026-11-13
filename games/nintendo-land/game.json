@@ -1,0 +1,78 @@
+{
+  "name": "Nintendo Land",
+  "titleIds": [
+    "0005000010101F00",
+    "0005000010102000",
+    "0005000010102100"
+  ],
+  "mods": [
+    {
+      "id": "nland-unused-dk-level",
+      "name": "Unused Donkey Kong's Crash Course Level",
+      "type": "mod",
+      "version": "2023.10.22",
+      "author": "Zyiah",
+      "description": "Restores an unused debug test level from early in development to Donkey Kong's Crash Course. The camera may not work properly.\n\nThe original download has two more test levels as separate files; this package has the first one.\n\nSource: https://gamebanana.com/mods/437422",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nland-unused-dk-level.zip",
+      "fileSize": 19555249,
+      "sha256": "ce8163b7bde43975896a98f8d1a58a7c46eca83c26b26faa4ccef74187e9617f",
+      "tags": [
+        "levels",
+        "restoration"
+      ],
+      "releaseDate": "2023-10-22",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6434aee58a1fe.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6434aee58a1fe.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6434aeee86764.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6434aef4c352f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6434aefb535db.jpg"
+      ]
+    },
+    {
+      "id": "nland-zelda-costumes",
+      "name": "Battle Quest Costumes",
+      "type": "mod",
+      "version": "2021.07.22",
+      "author": "TheN00b21",
+      "description": "Gives the archer and all three swordsmen in The Legend of Zelda: Battle Quest new outfits, and adds a dark Triforce.\n\nBuilt from the USA version.\n\nSource: https://gamebanana.com/mods/307381",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nland-zelda-costumes.zip",
+      "fileSize": 39094067,
+      "sha256": "1cc3e366440570e51305d3bcf6d464f21e5454ce4fd5c30a1154329694b49ae1",
+      "tags": [
+        "skin",
+        "costume"
+      ],
+      "releaseDate": "2021-07-22",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_60f9cfb09a68f.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/60f9cfb09a68f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/60f9cfa9c0cbd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/60f9cfaca1a16.jpg",
+        "https://images.gamebanana.com/img/ss/mods/60f9cfade48e1.jpg"
+      ]
+    },
+    {
+      "id": "nland-truer-final-battle",
+      "name": "The Truer Final Battle",
+      "type": "mod",
+      "version": "2023.10.22",
+      "author": "Zyiah",
+      "description": "Adds Ice Ridley to the final mission of Metroid Blast, alongside Kraid and Ridley.\n\nSource: https://gamebanana.com/mods/470863",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/nland-truer-final-battle.zip",
+      "fileSize": 21042195,
+      "sha256": "c6cf16de2a2008929c0cfec07f4671ff93dd151d6397e5eecdea19224caf5583",
+      "tags": [
+        "levels",
+        "difficulty"
+      ],
+      "releaseDate": "2023-10-22",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_65138ae6d7fc5.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/65138ae6d7fc5.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65138b19370d3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65138b4755b69.jpg"
+      ]
+    }
+  ]
+}

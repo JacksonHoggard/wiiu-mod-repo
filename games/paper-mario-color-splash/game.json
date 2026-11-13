@@ -1,0 +1,97 @@
+{
+  "name": "Paper Mario: Color Splash",
+  "titleIds": [
+    "000500001F600900",
+    "000500001F600A00",
+    "000500001F600B00"
+  ],
+  "mods": [
+    {
+      "id": "pmcs-paint-hammer-colors",
+      "name": "Paint Hammer Color Pack",
+      "type": "mod",
+      "version": "2026.01.04",
+      "author": "Xuman",
+      "description": "Changes the paint colors the hammer splashes: red becomes hot pink, orange brown, yellow mustard, green teal, blue cyan and purple deep indigo.\n\nOnly use one paint color mod at a time.\n\nSource: https://gamebanana.com/mods/644052",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/pmcs-paint-hammer-colors.zip",
+      "fileSize": 5001,
+      "sha256": "b70944f6e9765e7d41e8d5f89ed41c2768d4a2c53d65c114649305d77d66929b",
+      "tags": [
+        "visual"
+      ],
+      "releaseDate": "2026-01-04",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6959decfb5243.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6959decfb5243.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6959ded056ac1.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6959ded056e19.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6959ded06b1b4.jpg"
+      ]
+    },
+    {
+      "id": "pmcs-black-paint",
+      "name": "Black Paint",
+      "type": "mod",
+      "version": "2016.10.27",
+      "author": "AlphaWario",
+      "description": "Changes all paint to black. Hitting enemies looks like it drains their color.\n\nOnly use one paint color mod at a time.\n\nSource: https://gamebanana.com/mods/246262",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/pmcs-black-paint.zip",
+      "fileSize": 4903,
+      "sha256": "b9615058772774858226517261e58553a4c45a35d8b4e0c24aa0e02953762a43",
+      "tags": [
+        "visual"
+      ],
+      "releaseDate": "2016-10-27",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_581014c00575c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/581014c00575c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5811a0035b0bf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5811a008e5799.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5811a01098d17.jpg"
+      ]
+    },
+    {
+      "id": "pmcs-white-paint",
+      "name": "White Paint",
+      "type": "mod",
+      "version": "2016.10.27",
+      "author": "Fever15",
+      "description": "Changes all paint to white.\n\nOnly use one paint color mod at a time.\n\nSource: https://gamebanana.com/mods/246263",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/pmcs-white-paint.zip",
+      "fileSize": 4892,
+      "sha256": "d4f8c5332ac30806c28cfa2df6376ccd30e86cffe1a8b3105d5406c30f272c4f",
+      "tags": [
+        "visual"
+      ],
+      "releaseDate": "2016-10-27",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_581116f362a00.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/581116f362a00.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58101858ced0e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5810185da3260.jpg",
+        "https://images.gamebanana.com/img/ss/mods/58114c47d0d00.jpg"
+      ]
+    },
+    {
+      "id": "pmcs-kersti-over-huey",
+      "name": "Kersti over Huey",
+      "type": "mod",
+      "version": "2025.07.06",
+      "author": "Rachel01",
+      "description": "Replaces Huey's paper form with Kersti from Paper Mario: Sticker Star. Huey's 3D model and text are unchanged.\n\nSource: https://gamebanana.com/mods/605323",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/pmcs-kersti-over-huey.zip",
+      "fileSize": 6970691,
+      "sha256": "5cae890155e32dec9158e14fdaeca01a1094e3247dae7c5b4330310409e6373a",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2025-07-06",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_686aebaa7ee5a.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/686aebaa7ee5a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/686aebab0ba13.jpg"
+      ]
+    }
+  ]
+}

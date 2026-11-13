@@ -170,7 +170,69 @@ Title IDs: `00050000101DBE00`, `00050000101D9D00`, `00050000101D7500`
 | [Texture Overhaul](https://gamebanana.com/mods/432893) | Mod | 2023.03.18 | Cal-theDevGirl | 12 MB |
 | [Modern Textures (1.14)](https://gamebanana.com/mods/550510) | Mod | 2024.10.23 | RyJKZ | 10 MB |
 
-Sizes are the download size. Mods marked "needs DLC" need the game's DLC installed (most of them include files for it in `aoc/`). Mods marked "USA only" were built for the USA version of the game and won't work on other regions.
+### Hyrule Warriors
+
+Title IDs: `000500001017CD00`, `000500001017D800`, `000500001017D900`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [More Weapons](https://gamebanana.com/mods/687314) | Mod | 2026.06.19 | PokEli2728 | <1 MB |
+| [PvP Hyrule Warriors](https://gamebanana.com/mods/720041) | Mod | 2026.09.23 | PokEli2728 | <1 MB |
+| [Golden Master Sword & Hylian Shield](https://gamebanana.com/mods/738570) | Mod | 2026.11.09 | PokEli2728 | <1 MB |
+| [Massacre at Hyrule Field](https://gamebanana.com/mods/687370) | Mod | 2026.06.20 | PokEli2728 | <1 MB |
+
+### Paper Mario: Color Splash
+
+Title IDs: `000500001F600900`, `000500001F600A00`, `000500001F600B00`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Paint Hammer Color Pack](https://gamebanana.com/mods/644052) | Mod | 2026.01.04 | Xuman | <1 MB |
+| [Black Paint](https://gamebanana.com/mods/246262) | Mod | 2016.10.27 | AlphaWario | <1 MB |
+| [White Paint](https://gamebanana.com/mods/246263) | Mod | 2016.10.27 | Fever15 | <1 MB |
+| [Kersti over Huey](https://gamebanana.com/mods/605323) | Mod | 2025.07.06 | Rachel01 | 7 MB |
+
+### Mario Tennis: Ultra Smash
+
+Title IDs: `0005000010199000`, `00050000101A3500`, `00050000101A3600`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [64 Mario](https://gamebanana.com/mods/251570) | Mod | 2020.09.10 | Insidious_NX | 66 MB |
+| [Strikers Charged Daisy](https://gamebanana.com/mods/251569) | Mod | 2019.09.13 | Insidious_NX | 2 MB |
+| [Ice Luigi](https://gamebanana.com/mods/297587) | Mod | 2021.06.21 | TheN00b21 | 2 MB |
+| [Playable Gold Mario](https://gamebanana.com/mods/482585) | Mod | 1.0 | DogToon64 | 7 MB |
+| [Reindeer Yoshi](https://gamebanana.com/mods/321885) | Mod | 2021.09.19 | TheN00b21 | 2 MB |
+
+### Nintendo Land
+
+Title IDs: `0005000010101F00`, `0005000010102000`, `0005000010102100`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Unused Donkey Kong's Crash Course Level](https://gamebanana.com/mods/437422) | Mod | 2023.10.22 | Zyiah | 19 MB |
+| [Battle Quest Costumes](https://gamebanana.com/mods/307381) | Mod | 2021.07.22 | TheN00b21 | 37 MB |
+| [The Truer Final Battle](https://gamebanana.com/mods/470863) | Mod | 2023.10.22 | Zyiah | 20 MB |
+
+### Wii Party U
+
+Title IDs: `000500001011A800`, `0005000010137D00`, `0005000010137E00`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Tii Party U](https://gamebanana.com/mods/542037) (EUR only) | Mod | 1.1 beta | Snivy_09 | 14 MB |
+| [Wii Party CPUs](https://gamebanana.com/mods/687109) (USA only) | Mod | 1.0.0 | pugaku | 4 MB |
+| [Barbara and Kazuhiko Restoration](https://gamebanana.com/mods/539381) (EUR only) | Mod | 2025.05.25 | Snivy_09 | <1 MB |
+
+### Captain Toad: Treasure Tracker
+
+Title IDs: `0005000010180500`, `0005000010180600`, `0005000010180700`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Second Player Recolor](https://gamebanana.com/mods/250392) | Mod | 2019.02.14 | MagnaDR | 2 MB |
+
+Sizes are the download size. Mods marked "needs DLC" need the game's DLC installed (most of them include files for it in `aoc/`). Mods marked "USA only" or "EUR only" were built for that version of the game and won't work on other regions.
 
 ## Contributing a mod
 
@@ -203,6 +265,12 @@ games/
   smm/game.json
   pikmin-3/game.json
   minecraft/game.json
+  hyrule-warriors/game.json
+  paper-mario-color-splash/game.json
+  mario-tennis-ultra-smash/game.json
+  nintendo-land/game.json
+  wii-party-u/game.json
+  captain-toad/game.json
 ```
 
 Mod ZIPs aren't stored in git. Mods whose GameBanana download already has the right layout link straight to GameBanana. The rest are repackaged (with `content/` moved to the ZIP root and a `CREDITS.txt` added) and uploaded as assets on the [`mods-v1` release](https://github.com/JacksonHoggard/wiiu-mod-repo/releases/tag/mods-v1). Release assets must be under 2 GB, so Mario Kart Generations (2.7 GB) is hosted on the [Internet Archive](https://archive.org/details/mario-kart-generations-wiiu-v1.3.1) instead.

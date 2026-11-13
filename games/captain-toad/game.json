@@ -1,0 +1,32 @@
+{
+  "name": "Captain Toad: Treasure Tracker",
+  "titleIds": [
+    "0005000010180500",
+    "0005000010180600",
+    "0005000010180700"
+  ],
+  "mods": [
+    {
+      "id": "ctt-dlc-recolor",
+      "name": "Second Player Recolor",
+      "type": "mod",
+      "version": "2019.02.14",
+      "author": "MagnaDR",
+      "description": "Recolors Captain Toad to match the second-player Toad from the Switch co-op update. Includes a matching recolor for mini Captain Toad.\n\nSource: https://gamebanana.com/mods/250392",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/ctt-dlc-recolor.zip",
+      "fileSize": 2381574,
+      "sha256": "46d710b55143bf7051c4485db89b9538d5be196acedddbc5f164ff4d62f9b819",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2019-02-14",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5c64f0f62a0c3.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5c64f0f62a0c3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5c64f13771fe9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5c64f14d31f51.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5c64f14dad1d6.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "name": "Mario Tennis: Ultra Smash",
+  "titleIds": [
+    "0005000010199000",
+    "00050000101A3500",
+    "00050000101A3600"
+  ],
+  "mods": [
+    {
+      "id": "mtus-64-mario",
+      "name": "64 Mario",
+      "type": "mod",
+      "version": "2020.09.10",
+      "author": "Insidious_NX",
+      "description": "Replaces Mario with his Super Mario Odyssey model in classic N64 colors, with expressions, N64-style promo art and voice clips from Super Mario 64, Melee, Sunshine and Power Tennis.\n\nCan't be combined with Playable Gold Mario.\n\nSource: https://gamebanana.com/mods/251570",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/mtus-64-mario.zip",
+      "fileSize": 69207968,
+      "sha256": "fcf1f211a67ff59e6bba09cb247f0ece16319191349417b7c2940ddfa70d7219",
+      "tags": [
+        "skin",
+        "character",
+        "audio"
+      ],
+      "releaseDate": "2020-09-10",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f5ab7437bb2c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f5ab7437bb2c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f5ab75422f1a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f5ab75326af1.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f5ab753dd6de.jpg"
+      ]
+    },
+    {
+      "id": "mtus-strikers-daisy",
+      "name": "Strikers Charged Daisy",
+      "type": "mod",
+      "version": "2019.09.13",
+      "author": "Insidious_NX",
+      "description": "Replaces Daisy with her model from Mario Strikers Charged.\n\nSource: https://gamebanana.com/mods/251569",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/mtus-strikers-daisy.zip",
+      "fileSize": 2418001,
+      "sha256": "4fbd950a781b022d6092e9a94f594c6043fb58dc7a3fa4930cfcc0532960e7b4",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2019-09-13",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5d7b5c7df3ff6.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5d7b5c7df3ff6.webp",
+        "https://images.gamebanana.com/img/ss/mods/5d7b5cab75d76.webp",
+        "https://images.gamebanana.com/img/ss/mods/5d7b5cac548fc.webp",
+        "https://images.gamebanana.com/img/ss/mods/5d7b5cacc2036.webp"
+      ]
+    },
+    {
+      "id": "mtus-ice-luigi",
+      "name": "Ice Luigi",
+      "type": "mod",
+      "version": "2021.06.21",
+      "author": "TheN00b21",
+      "description": "Retextures Luigi to look like his Ice Flower power-up form. The UI icons are unchanged.\n\nSource: https://gamebanana.com/mods/297587",
+      "download": "https://gamebanana.com/dl/596878",
+      "fileSize": 2469994,
+      "sha256": "7728986f5be7a16d1a133c442b0a24041d6d82c2139f1868bda25a0d63eb7718",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2021-06-21",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_60d0f9fcac8a0.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/60d0f9fcac8a0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/60d0f9fccad92.jpg",
+        "https://images.gamebanana.com/img/ss/mods/60d0f9fd23e00.jpg",
+        "https://images.gamebanana.com/img/ss/mods/60d0f9fe3eca1.jpg"
+      ]
+    },
+    {
+      "id": "mtus-gold-mario",
+      "name": "Playable Gold Mario",
+      "type": "mod",
+      "version": "1.0",
+      "author": "DogToon64",
+      "description": "Replaces Mario with Gold Mario. A few icons are unchanged.\n\nCan't be combined with 64 Mario.\n\nSource: https://gamebanana.com/mods/482585",
+      "download": "https://gamebanana.com/dl/1097693",
+      "fileSize": 7831142,
+      "sha256": "6e580d47cc5596f005e3ab1bf5833b59a6780c03cb32d7853b647fc318ce2b19",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2023-12-05",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_656ea2af0046d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/656ea2af0046d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/656ea2af279b4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/656ea2af8944f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/656ea2ad68450.jpg"
+      ]
+    },
+    {
+      "id": "mtus-reindeer-yoshi",
+      "name": "Reindeer Yoshi",
+      "type": "mod",
+      "version": "2021.09.19",
+      "author": "TheN00b21",
+      "description": "Replaces Yoshi with a reindeer Yoshi model. Tested on a real Wii U by the author.\n\nSource: https://gamebanana.com/mods/321885",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/mtus-reindeer-yoshi.zip",
+      "fileSize": 1910549,
+      "sha256": "f035099c6d0475470e2aca0c298d42f6ccbe35bd1ec1ef2bf5fd210c5ae56e28",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2021-09-19",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6147c5fa3418a.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6147c5fa3418a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6147c5f82ebc5.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6147c5f81f7e7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6147c5fa570b4.jpg"
+      ]
+    }
+  ]
+}

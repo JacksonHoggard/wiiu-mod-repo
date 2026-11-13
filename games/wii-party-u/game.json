@@ -1,0 +1,76 @@
+{
+  "name": "Wii Party U",
+  "titleIds": [
+    "000500001011A800",
+    "0005000010137D00",
+    "0005000010137E00"
+  ],
+  "mods": [
+    {
+      "id": "wpu-tii-party",
+      "name": "Tii Party U",
+      "type": "mod",
+      "version": "1.1 beta",
+      "author": "Snivy_09",
+      "description": "A joke mod that changes music, minigame rules, menu text and Party Phil and Penny's dialogue so the game mocks you. Also restores Barbara's and Kazuhiko's names.\n\nEUR version in English only. Don't combine with Barbara and Kazuhiko Restoration.\n\nSource: https://gamebanana.com/mods/542037",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wpu-tii-party.zip",
+      "fileSize": 14778453,
+      "sha256": "6862851b85ef3d50712f93f8e65c460bcf6ff24ac6a7eb0fe6473d422bf0212d",
+      "tags": [
+        "text",
+        "music"
+      ],
+      "releaseDate": "2025-05-25",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_66e53a5a0990e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66e53a5a0990e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66e53a7604bc8.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66e53a8ab31bf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66e53aaf75242.jpg"
+      ]
+    },
+    {
+      "id": "wpu-wii-party-cpus",
+      "name": "Wii Party CPUs",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "pugaku",
+      "description": "Adds 11 CPU Miis from Wii, Wii Fit and Wii Music, keeping their original difficulty levels.\n\nUSA version only.\n\nSource: https://gamebanana.com/mods/687109",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wpu-wii-party-cpus.zip",
+      "fileSize": 4525554,
+      "sha256": "b6b808075d2de4bd642f79f9f8107498597cef1958ba39a56b3e932679426bae",
+      "tags": [
+        "character"
+      ],
+      "releaseDate": "2026-06-19",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6a34813fb1347.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a34813fb1347.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a34816f8a006.jpg"
+      ]
+    },
+    {
+      "id": "wpu-barbara-kazuhiko",
+      "name": "Barbara and Kazuhiko Restoration",
+      "type": "mod",
+      "version": "2025.05.25",
+      "author": "Snivy_09",
+      "description": "Fixes two Mii names that were mistranslated: Elena becomes Barbara and Kazuhiro becomes Kazuhiko.\n\nEUR version in English or Spanish only.\n\nSource: https://gamebanana.com/mods/539381",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wpu-barbara-kazuhiko.zip",
+      "fileSize": 4500,
+      "sha256": "e40971b93fa26dbaacd3a24b5db8fe6c474ee784316eee48df51a38758a0c4a9",
+      "tags": [
+        "text",
+        "restoration"
+      ],
+      "releaseDate": "2025-05-25",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_676c636299704.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/676c636299704.jpg",
+        "https://images.gamebanana.com/img/ss/mods/676c6571516cb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/676c65e18996d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/676c66463cb72.jpg"
+      ]
+    }
+  ]
+}

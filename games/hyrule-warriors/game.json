@@ -1,0 +1,100 @@
+{
+  "name": "Hyrule Warriors",
+  "titleIds": [
+    "000500001017CD00",
+    "000500001017D800",
+    "000500001017D900"
+  ],
+  "mods": [
+    {
+      "id": "hw-more-weapons",
+      "name": "More Weapons",
+      "type": "mod",
+      "version": "2026.06.19",
+      "author": "PokEli2728",
+      "description": "Gives many characters the weapons of other characters, so you can try more play styles with your favorite warriors.\n\nSource: https://gamebanana.com/mods/687314",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/hw-more-weapons.zip",
+      "fileSize": 14001,
+      "sha256": "1b6161af3cc92a864e9eb1790171b345a798107670b6af921aa3eabd40cb1d8e",
+      "tags": [
+        "gameplay",
+        "weapons"
+      ],
+      "releaseDate": "2026-06-19",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6a35c102ec869.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a35c102ec869.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a35c10300226.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a35c10301651.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a35c10303941.jpg"
+      ]
+    },
+    {
+      "id": "hw-pvp",
+      "name": "PvP Hyrule Warriors",
+      "type": "mod",
+      "version": "2026.09.23",
+      "author": "PokEli2728",
+      "description": "Puts player 2 on the enemy team in Legend Mode and Free Mode, so you can fight a friend. Player 1 and 2 spawn further apart.\n\nVery unbalanced: player 2 often has a big advantage.\n\nSource: https://gamebanana.com/mods/720041",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/hw-pvp.zip",
+      "fileSize": 279202,
+      "sha256": "beebf76e6940290acd72d150dcb2f74e4346ee1fdbcc6b7e649b9affc8d995a8",
+      "tags": [
+        "gameplay"
+      ],
+      "releaseDate": "2026-09-23",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6ab3e8686f3da.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6ab3e8686f3da.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6ab3e91bcb94e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6ab3e91ce4334.jpg"
+      ]
+    },
+    {
+      "id": "hw-golden-master-sword",
+      "name": "Golden Master Sword & Hylian Shield",
+      "type": "mod",
+      "version": "2026.11.09",
+      "author": "PokEli2728",
+      "description": "Gives the Master Sword and Hylian Shield a golden look instead of silver.\n\nSource: https://gamebanana.com/mods/738570",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/hw-golden-master-sword.zip",
+      "fileSize": 310865,
+      "sha256": "8dcf2ea2c2cf038f0c7f3e82aef4b11891452e4d2c378cfd31d2738e3b1676a5",
+      "tags": [
+        "skin",
+        "weapons"
+      ],
+      "releaseDate": "2026-11-09",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6af24ae61af3e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6af24ae61af3e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6af24ae608511.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6af24ae60ee5b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6af24c60a3d61.jpg"
+      ]
+    },
+    {
+      "id": "hw-massacre-hyrule-field",
+      "name": "Massacre at Hyrule Field",
+      "type": "mod",
+      "version": "2026.06.20",
+      "author": "PokEli2728",
+      "description": "Replaces the level \"The Invasion Begins\" with a much bigger battle: more than 4x the normal number of Lizalfos, plus a couple of King Dodongos and Summoners.\n\nSource: https://gamebanana.com/mods/687370",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/hw-massacre-hyrule-field.zip",
+      "fileSize": 11357,
+      "sha256": "4bdec09ed49524f3d116798fc804e5ac885235b3b4a463298c1b80c3d32383a9",
+      "tags": [
+        "levels",
+        "difficulty"
+      ],
+      "releaseDate": "2026-06-20",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6a35fec8e4a13.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6a35fec8e4a13.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a35fef63f133.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a35fef6871fe.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6a35fef69005e.jpg"
+      ]
+    }
+  ]
+}
