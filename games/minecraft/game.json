@@ -1,0 +1,52 @@
+{
+  "name": "Minecraft: Wii U Edition",
+  "titleIds": [
+    "00050000101DBE00",
+    "00050000101D9D00",
+    "00050000101D7500"
+  ],
+  "mods": [
+    {
+      "id": "minecraft-texture-overhaul",
+      "name": "Texture Overhaul",
+      "type": "mod",
+      "version": "2023.03.18",
+      "author": "Cal-theDevGirl",
+      "description": "A work-in-progress overhaul that brings the modern textures from the latest Java Edition to Minecraft: Wii U Edition.\n\nSource: https://gamebanana.com/mods/432893",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/minecraft-texture-overhaul.zip",
+      "fileSize": 12465389,
+      "sha256": "4731922f2ce1db13c4acb580a67b65c229261b9fda540b2ea392c3473d21f98e",
+      "tags": [
+        "textures"
+      ],
+      "releaseDate": "2023-03-18",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6415d87b2cab0.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6415d87b2cab0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6415d8bd708e1.jpg"
+      ]
+    },
+    {
+      "id": "minecraft-modern-textures",
+      "name": "Modern Textures (1.14)",
+      "type": "mod",
+      "version": "2024.10.23",
+      "author": "RyJKZ",
+      "description": "Replaces the old block, item and mob textures with the updated textures from Minecraft 1.14.\n\nSource: https://gamebanana.com/mods/550510",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/minecraft-modern-textures.zip",
+      "fileSize": 10839199,
+      "sha256": "b3152c6903559124a1502aea91c30f60a3065edf647a9fcbd52a83715faf4a84",
+      "tags": [
+        "textures"
+      ],
+      "releaseDate": "2024-10-23",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_671905b9e60f9.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/671905b9e60f9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/671905ca68980.jpg",
+        "https://images.gamebanana.com/img/ss/mods/671905db5d58a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/671905e73dfd8.jpg"
+      ]
+    }
+  ]
+}

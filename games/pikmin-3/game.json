@@ -1,0 +1,37 @@
+{
+  "name": "Pikmin 3",
+  "titleIds": [
+    "000500001012BC00",
+    "000500001012BD00",
+    "000500001012BE00"
+  ],
+  "mods": [
+    {
+      "id": "pikmin3-original-leaders",
+      "name": "Original Leaders",
+      "type": "mod",
+      "version": "2020.11.04",
+      "author": "Niment",
+      "description": "Olimar, Louie and the President return as playable characters, replacing Alph, Brittany and Charlie. Alph and Brittany replace Olimar and Louie. The President uses a custom model based on his Pikmin 2 look.\n\nMade for the latest USA version with the DLC installed. The author tested it on Cemu only.\n\nSource: https://gamebanana.com/mods/246750",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/pikmin3-original-leaders.zip",
+      "fileSize": 22410191,
+      "sha256": "9a7b9c2275245dca6690f373ffe70dd72c6df6b5e1025f33e8035329a1f20eb4",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2020-11-04",
+      "requirements": [
+        "DLC installed",
+        "USA version, latest update"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f9b155118efb.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f9b155118efb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158a59956.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158951976.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f9b158e15e92.jpg"
+      ]
+    }
+  ]
+}

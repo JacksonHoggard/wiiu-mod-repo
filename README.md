@@ -34,6 +34,7 @@ Title IDs: `000500001010EB00`, `000500001010EC00`, `000500001010ED00`
 | Mario Kart Generations (needs DLC) | Modpack | 1.3.1 | UNREALII- | 2,690 MB |
 | [CTGP-Universe Zeta](https://gamebanana.com/mods/49460) (needs DLC) | Modpack | 2020.04.12 | Lloyd Nabbit | 675 MB |
 | [Mario Kart: DatPags Edition](https://gamebanana.com/mods/49461) | Modpack | 2018.07.19 | DatPags | 172 MB |
+| [Mario Kart 8 Deluxe Modpack](https://gamebanana.com/mods/49464) (needs DLC) | Modpack | 4.2.1 | Ceege | 68 MB |
 | [Sonic The Hedgehog](https://gamebanana.com/mods/172388) | Mod | 2017.06.18 | CorBond | 9 MB |
 | [Kirby Over Koopa Troopa](https://gamebanana.com/mods/172429) | Mod | 2017.05.09 | SmashingRenders | 9 MB |
 | [Bowsette](https://gamebanana.com/mods/172512) | Mod | 2018.10.04 | DarkyBenji | 11 MB |
@@ -95,7 +96,69 @@ Title IDs: `00050000101C9300`, `00050000101C9400`, `00050000101C9500`
 | [Lylari's Music Overhaul](https://gamebanana.com/mods/49554) | Mod | 2021.12.29 | Lylari | 826 MB |
 | [QNando's Zelda Mod](https://gamebanana.com/mods/167741) | Mod | 2018.07.20 | QNando | 72 MB |
 
-Sizes are the download size. Mods marked "needs DLC" include files for the game's DLC (`aoc/`), so the DLC must be installed.
+### Splatoon
+
+Title IDs: `0005000010162B00`, `0005000010176900`, `0005000010176A00`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Splatoon+](https://gamebanana.com/mods/570597) | Modpack | 1.3.2 | Delus1on_L | 199 MB |
+| [The Splatlands Project](https://gamebanana.com/mods/599610) | Modpack | 4.0.0 | Claygolor | 685 MB |
+| [Splatoon 2 Map Ports](https://gamebanana.com/mods/356380) | Mod | 4.6 | YoshiCrystal | 726 MB |
+| [Playable Rival Octoling](https://gamebanana.com/mods/288292) | Mod | 1.2 | Mannta | 15 MB |
+
+Splatoon+ and The Splatlands Project need the NoHash and Rival Unpatch Aroma plugins, which you install separately. Online play with any of these mods needs NoHash. Keep custom maps in Private Battles on Pretendo.
+
+### Super Smash Bros. for Wii U
+
+Title IDs: `0005000010110E00`, `0005000010144F00`, `0005000010145000`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [TR4SH](https://gamebanana.com/mods/48602) (USA only) | Modpack | 1.10.5 | JABrules | 912 MB |
+| [Training Modpack](https://gamebanana.com/mods/48370) (USA only) | Modpack | 3.5 | jugeeya | 14 MB |
+
+### Super Mario 3D World
+
+Title IDs: `0005000010106100`, `0005000010145C00`, `0005000010145D00`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Kaizo Mario 3D World](https://gamebanana.com/mods/149492) | Mod | 2.05 | SurfRay | 65 MB |
+| [Waluigi (V2)](https://gamebanana.com/mods/247911) | Mod | 2 | Nickolox | 67 MB |
+| [Toadette](https://gamebanana.com/mods/247916) | Mod | 2 | Insidious_NX | 52 MB |
+| [Switch Version Character Physics](https://gamebanana.com/mods/54745) | Mod | 2021.04.23 | Mamaluigi | 1 MB |
+| [Super Duper Mario 3D World (Worlds 1-2)](https://gamebanana.com/mods/317314) | Mod | 2021.09.28 | TurgsEpicYoutubeChannel | 137 MB |
+
+### Super Mario Maker
+
+Title IDs: `000500001018DB00`, `000500001018DC00`, `000500001018DD00`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Super Luigi Maker](https://gamebanana.com/mods/248093) | Mod | 2017.09.18 | NinjaZako | 20 MB |
+| [New Super Mario Bros. Wii Theme](https://gamebanana.com/mods/421748) | Mod | 1 | KartMakerBrosU | 69 MB |
+| [The Metroid Mod](https://gamebanana.com/mods/50015) | Mod | 1.1.4 | Lakifume | 435 MB |
+| [Unlock All Costumes](https://gamebanana.com/mods/602041) | Mod | 2025.06.21 | NobleD4 | 26 MB |
+
+### Pikmin 3
+
+Title IDs: `000500001012BC00`, `000500001012BD00`, `000500001012BE00`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Original Leaders](https://gamebanana.com/mods/246750) (needs DLC, USA only) | Mod | 2020.11.04 | Niment | 21 MB |
+
+### Minecraft: Wii U Edition
+
+Title IDs: `00050000101DBE00`, `00050000101D9D00`, `00050000101D7500`
+
+| Mod | Type | Version | Author | Size |
+|-----|------|---------|--------|------|
+| [Texture Overhaul](https://gamebanana.com/mods/432893) | Mod | 2023.03.18 | Cal-theDevGirl | 12 MB |
+| [Modern Textures (1.14)](https://gamebanana.com/mods/550510) | Mod | 2024.10.23 | RyJKZ | 10 MB |
+
+Sizes are the download size. Mods marked "needs DLC" need the game's DLC installed (most of them include files for it in `aoc/`). Mods marked "USA only" were built for the USA version of the game and won't work on other regions.
 
 ## Contributing a mod
 
@@ -122,6 +185,12 @@ games/
   wwhd/game.json
   nsmbu/game.json
   botw/game.json
+  splatoon/game.json
+  smash-wii-u/game.json
+  sm3dw/game.json
+  smm/game.json
+  pikmin-3/game.json
+  minecraft/game.json
 ```
 
 Mod ZIPs aren't stored in git. Mods whose GameBanana download already has the right layout link straight to GameBanana. The rest are repackaged (with `content/` moved to the ZIP root and a `CREDITS.txt` added) and uploaded as assets on the [`mods-v1` release](https://github.com/JacksonHoggard/wiiu-mod-repo/releases/tag/mods-v1). Release assets must be under 2 GB, so Mario Kart Generations (2.7 GB) is hosted on the [Internet Archive](https://archive.org/details/mario-kart-generations-wiiu-v1.3.1) instead.

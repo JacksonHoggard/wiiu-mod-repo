@@ -1,0 +1,61 @@
+{
+  "name": "Super Smash Bros. for Wii U",
+  "titleIds": [
+    "0005000010110E00",
+    "0005000010144F00",
+    "0005000010145000"
+  ],
+  "mods": [
+    {
+      "id": "smash4-tr4sh",
+      "name": "TR4SH (USA)",
+      "type": "modpack",
+      "version": "1.10.5",
+      "author": "JABrules",
+      "description": "A complete \"stupid Smash\" overhaul. Changes all 58 characters to be much stronger and sillier while staying balanced against each other.\n\nAlso includes custom music, MLG voices for Link and Ness, toggleable stage hazards, a custom splash screen and other UI changes.\n\nThis is the USA build. It will not work on the European or Japanese versions.\n\nSource: https://gamebanana.com/mods/48602",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/smash4-tr4sh.zip",
+      "fileSize": 955942497,
+      "sha256": "c911b5bd967d18e4c706b1dc423384e4141a02b42a6f80b33712396cfbae133e",
+      "tags": [
+        "gameplay",
+        "music",
+        "ui"
+      ],
+      "releaseDate": "2019-04-13",
+      "requirements": [
+        "USA version of the game, updated to v1.1.7"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_59f2fa6085e48.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/59f2fa6085e48.webp",
+        "https://images.gamebanana.com/img/ss/mods/59f2faaceb66b.webp"
+      ]
+    },
+    {
+      "id": "smash4-training-modpack",
+      "name": "Training Modpack (USA)",
+      "type": "modpack",
+      "version": "3.5",
+      "author": "jugeeya",
+      "description": "Practice tools for competitive play that work in training, matches and replays.\n\nIncludes:\n- Hitbox visualization and input display\n- Save states (hold Grab + D-pad down to save, Grab + D-pad up to load)\n- DI, tech, ledge and mash option toggles for CPUs\n- Percent controls and infinite shields\n\nToggle features with taunts. This is the full version for the USA game (v1.1.7).\n\nSource: https://gamebanana.com/mods/48370",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/smash4-training-modpack.zip",
+      "fileSize": 14462127,
+      "sha256": "9109c7e2f77e0f3d739dd62e6207e1ea01e51050b122fbc9fe739f9fbf0c81a1",
+      "tags": [
+        "gameplay",
+        "training"
+      ],
+      "releaseDate": "2018-10-07",
+      "requirements": [
+        "USA version of the game, updated to v1.1.7"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5967ab3718f3b.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5967ab3718f3b.webp",
+        "https://images.gamebanana.com/img/ss/mods/5967abd2db586.webp",
+        "https://images.gamebanana.com/img/ss/mods/5967abe5741c1.webp",
+        "https://images.gamebanana.com/img/ss/mods/5967abeec09ff.webp"
+      ]
+    }
+  ]
+}

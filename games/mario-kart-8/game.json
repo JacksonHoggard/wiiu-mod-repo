@@ -78,6 +78,34 @@
       ]
     },
     {
+      "id": "mk8-deluxe-modpack",
+      "name": "Mario Kart 8 Deluxe Modpack",
+      "type": "modpack",
+      "version": "4.2.1",
+      "author": "Ceege",
+      "description": "Brings the Mario Kart 8 Deluxe experience to the Wii U.\n\nIncludes:\n- New Deluxe characters (including the Inklings)\n- Deluxe menus and UI\n- New karts and tires\n- Character voices and kart sounds\n- Course map updates\n\nThis is the console version of the pack (the Cemu-only menu videos are left out). The Double Item mechanic is not implemented: the item box shows two slots, but you still only get one item.\n\nSource: https://gamebanana.com/mods/49464",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/mk8-deluxe-modpack.zip",
+      "fileSize": 71679717,
+      "sha256": "821b03ae2c14be44b145054ed423016e38fea1f97f21a7cdc79debc4452324db",
+      "tags": [
+        "character",
+        "kart",
+        "ui",
+        "audio"
+      ],
+      "releaseDate": "2020-07-15",
+      "requirements": [
+        "DLC installed"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f04aaa94fb1e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f04aaa94fb1e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5d6b0ffd90cf7.webp",
+        "https://images.gamebanana.com/img/ss/mods/5f04aab8400e3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5ed35463cc9e4.jpg"
+      ]
+    },
+    {
       "id": "mk8-sonic",
       "name": "Sonic The Hedgehog",
       "type": "mod",

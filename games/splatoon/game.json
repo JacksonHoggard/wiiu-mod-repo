@@ -1,0 +1,116 @@
+{
+  "name": "Splatoon",
+  "titleIds": [
+    "0005000010162B00",
+    "0005000010176900",
+    "0005000010176A00"
+  ],
+  "mods": [
+    {
+      "id": "splatoon-plus",
+      "name": "Splatoon+",
+      "type": "modpack",
+      "version": "1.3.2",
+      "author": "Delus1on_L",
+      "description": "A content update for Splatoon, made in the style of the game's original updates.\n\nIncludes:\n- 50 new pieces of gear (safe to use online on Pretendo)\n- New stage: Mako Parking Lot\n- New font with extra Japanese, Alterna and icon characters\n- New lobby UI and design\n- New environments for Walleye Warehouse and Mahi-Mahi Resort\n- Improved Octolings\n\nThe new stages must stay in Private Battles, or you can be banned from Pretendo. Back up your save with SaveMii first.\n\nSource: https://gamebanana.com/mods/570597",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/splatoon-plus.zip",
+      "fileSize": 208987033,
+      "sha256": "7c97f2f65ed244504be2c554623f9990721ba86a4df8a91e06e62bd7b9bd55c2",
+      "tags": [
+        "gear",
+        "map",
+        "ui",
+        "font"
+      ],
+      "releaseDate": "2025-05-31",
+      "requirements": [
+        "NoHash plugin",
+        "Rival Unpatch plugin (do not use its Player.pack; this mod includes its own)"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6835eb0bc2b6c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6835eb0bc2b6c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/67b90ccc13fcd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/67914f7529991.jpg",
+        "https://images.gamebanana.com/img/ss/mods/67c2375570c4d.jpg"
+      ]
+    },
+    {
+      "id": "splatoon-splatlands-project",
+      "name": "The Splatlands Project",
+      "type": "modpack",
+      "version": "4.0.0",
+      "author": "Claygolor",
+      "description": "Brings the Splatlands from Splatoon 3 to Splatoon.\n\nIncludes:\n- Inkopolis Plaza replaced with Splatsville\n- Murch in the city\n- Splatsville ambience sounds\n- Inkopolis News music replaced with the Anarchy Splatcast\n- Splatoon 3 lobby over the Shooting Range\n- Ports of Splatoon 3 stages\n\nMay conflict with other big mods such as Splatoon+.\n\nSource: https://gamebanana.com/mods/599610",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/splatoon-splatlands-project.zip",
+      "fileSize": 718156820,
+      "sha256": "56fe075d7d35bab1145e023c1ad38992d348daa4bf8d411245e88296d92d3714",
+      "tags": [
+        "map",
+        "music",
+        "audio",
+        "ui"
+      ],
+      "releaseDate": "2025-12-09",
+      "requirements": [
+        "NoHash plugin (for online play)",
+        "Rival Unpatch plugin"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6938a338f142a.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6938a338f142a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68c0978b0ba59.jpg",
+        "https://images.gamebanana.com/img/ss/mods/68c09765ebc54.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6938a3983ddff.jpg"
+      ]
+    },
+    {
+      "id": "splatoon-2-map-ports",
+      "name": "Splatoon 2 Map Ports",
+      "type": "mod",
+      "version": "4.6",
+      "author": "YoshiCrystal",
+      "description": "High-quality ports of Splatoon 2 stages, including The Reef, Humpback Pump Track, Inkblot Academy, Musselforge Fitness, Starfish Mainstage, Sturgeon Shipyard, Manta Maria, Wahoo World, Goby Arena, Snapper Canal, Mako Mart and Shifty Station layouts.\n\nThe maps replace existing stages. Online play needs NoHash, and the maps must be unlocked or forced. Use at your own risk online.\n\nSource: https://gamebanana.com/mods/356380",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/splatoon-2-map-ports.zip",
+      "fileSize": 761317825,
+      "sha256": "01cb0ac5803c22b5875b7d2acbbfdd66eb263bdbe6be0656f29d1cf80c674543",
+      "tags": [
+        "map"
+      ],
+      "releaseDate": "2023-04-06",
+      "requirements": [
+        "NoHash plugin (for online play)"
+      ],
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_62fab0498385e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/62fab0498385e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62f131c50bdbd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62e15310aa25a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62e153236e946.jpg"
+      ]
+    },
+    {
+      "id": "splatoon-playable-rival-octoling",
+      "name": "Playable Rival Octoling",
+      "type": "mod",
+      "version": "1.2",
+      "author": "Mannta",
+      "description": "Gives Inklings the look of the rival Octolings (the unused Octoling form from the Splatoon 2 Testfire). This is the \"Girl and Boy\" version, which changes both genders.\n\nSource: https://gamebanana.com/mods/288292",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/splatoon-playable-rival-octoling.zip",
+      "fileSize": 15779865,
+      "sha256": "cfe9007c69a95b3836fbff16ec2749495d3b18f782646b71e6c05a30cf4d3a01",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2024-01-19",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/65a9c782967fa.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/65a9c782967fa.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65a9c7902915f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65a9c7a881798.jpg",
+        "https://images.gamebanana.com/img/ss/mods/65a9c7b2e5479.jpg"
+      ]
+    }
+  ]
+}

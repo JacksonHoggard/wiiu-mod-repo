@@ -3,7 +3,7 @@
   "name": "Wii U Mods",
   "author": "JacksonHoggard",
   "description": "Popular Wii U mods, packaged for CoffeeShop",
-  "version": "2",
+  "version": "3",
   "games": [
     {
       "path": "games/mario-kart-8/game.json"
@@ -19,6 +19,24 @@
     },
     {
       "path": "games/botw/game.json"
+    },
+    {
+      "path": "games/splatoon/game.json"
+    },
+    {
+      "path": "games/smash-wii-u/game.json"
+    },
+    {
+      "path": "games/sm3dw/game.json"
+    },
+    {
+      "path": "games/smm/game.json"
+    },
+    {
+      "path": "games/pikmin-3/game.json"
+    },
+    {
+      "path": "games/minecraft/game.json"
     }
   ]
 }

@@ -1,0 +1,124 @@
+{
+  "name": "Super Mario 3D World",
+  "titleIds": [
+    "0005000010106100",
+    "0005000010145C00",
+    "0005000010145D00"
+  ],
+  "mods": [
+    {
+      "id": "sm3dw-kaizo",
+      "name": "Kaizo Mario 3D World",
+      "type": "mod",
+      "version": "2.05",
+      "author": "SurfRay",
+      "description": "A full romhack that rebuilds Super Mario 3D World's levels into brutally hard kaizo stages, with new layouts, text and music.\n\nSource: https://gamebanana.com/mods/149492",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/sm3dw-kaizo.zip",
+      "fileSize": 68159277,
+      "sha256": "01c61d67e0142d0920987e540085bcbf22f5c081107abbd9e4cf5b7befee878e",
+      "tags": [
+        "levels",
+        "difficulty"
+      ],
+      "releaseDate": "2021-04-01",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f6f229325061.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f6f229325061.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f61ecb12a8c8.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f7340e2d6f34.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f62495bb1d36.jpg"
+      ]
+    },
+    {
+      "id": "sm3dw-waluigi",
+      "name": "Waluigi (V2)",
+      "type": "mod",
+      "version": "2",
+      "author": "Nickolox",
+      "description": "Replaces Luigi with a fully remade Waluigi model, including menus and map icons. Some effects (like the light from Light Boxes) are still green, and Luigi's voice is unchanged.\n\nSource: https://gamebanana.com/mods/247911",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/sm3dw-waluigi.zip",
+      "fileSize": 70094593,
+      "sha256": "40001f8abf023088e812668a0813ddb448cdda03836c74887baeef347620d93c",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2020-05-12",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5eba3e447c66c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5eba3e447c66c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5eba3d914e280.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5eba3d95133fd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5eba3d9980003.jpg"
+      ]
+    },
+    {
+      "id": "sm3dw-toadette",
+      "name": "Toadette",
+      "type": "mod",
+      "version": "2",
+      "author": "Insidious_NX",
+      "description": "Replaces Toad with Toadette, inspired by Super Mario Maker 2 and New Super Mario Bros. U Deluxe. Includes models, menus, text and voice.\n\nSource: https://gamebanana.com/mods/247916",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/sm3dw-toadette.zip",
+      "fileSize": 54997445,
+      "sha256": "ffc57504b4432dc7262733a888c42efbd90c029880abd52ea21c7deb01109de1",
+      "tags": [
+        "skin",
+        "character",
+        "audio"
+      ],
+      "releaseDate": "2020-08-10",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f3116e184e07.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f3116e184e07.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f31171aea3d9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5e8593ffbf2de.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5e8593ff96099.jpg"
+      ]
+    },
+    {
+      "id": "sm3dw-switch-physics",
+      "name": "Switch Version Character Physics",
+      "type": "mod",
+      "version": "2021.04.23",
+      "author": "Mamaluigi",
+      "description": "Ports the faster character physics from Super Mario 3D World + Bowser's Fury on Switch. Changes running speed, gravity, jumps, wall jumps and ground-pound jumps for every character, including Rosalina.\n\nSource: https://gamebanana.com/mods/54745",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/sm3dw-switch-physics.zip",
+      "fileSize": 1305539,
+      "sha256": "9cca15439cf3c603d877f9a7db3ffef17e9338e43097cbca76b5fb41d57df11b",
+      "tags": [
+        "gameplay",
+        "physics"
+      ],
+      "releaseDate": "2021-04-23",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6081b70037b27.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6081b70037b27.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6082c2bdeaafa.jpg"
+      ]
+    },
+    {
+      "id": "sm3dw-super-duper",
+      "name": "Super Duper Mario 3D World (Worlds 1-2)",
+      "type": "mod",
+      "version": "2021.09.28",
+      "author": "TurgsEpicYoutubeChannel",
+      "description": "A harder overhaul of Worlds 1 and 2 with remixed level layouts.\n\nSource: https://gamebanana.com/mods/317314",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/sm3dw-super-duper.zip",
+      "fileSize": 143134854,
+      "sha256": "b395101970c242bf9d65bcdca575defdbdc7cf28ecedf11730e53340e39ef32f",
+      "tags": [
+        "levels",
+        "difficulty"
+      ],
+      "releaseDate": "2021-09-28",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6128e1f647069.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6128e1f647069.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6128e1f7e3bbf.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6128e1f84ffa4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6128e1f970b3e.jpg"
+      ]
+    }
+  ]
+}

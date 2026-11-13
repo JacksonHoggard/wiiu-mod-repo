@@ -1,0 +1,102 @@
+{
+  "name": "Super Mario Maker",
+  "titleIds": [
+    "000500001018DB00",
+    "000500001018DC00",
+    "000500001018DD00"
+  ],
+  "mods": [
+    {
+      "id": "smm-super-luigi-maker",
+      "name": "Super Luigi Maker",
+      "type": "mod",
+      "version": "2017.09.18",
+      "author": "NinjaZako",
+      "description": "Replaces Mario with Luigi in every game style.\n\nSource: https://gamebanana.com/mods/248093",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/smm-super-luigi-maker.zip",
+      "fileSize": 20580730,
+      "sha256": "880692fc29e5c966a39ad0db519fd1412979ac4a25d47aabed926429179a4ecc",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2017-09-18",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5a4c2294f1c1c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5a4c2294f1c1c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31d3e1a17.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31dd92d93.jpg",
+        "https://images.gamebanana.com/img/ss/mods/59bf31e12c352.jpg"
+      ]
+    },
+    {
+      "id": "smm-nsmbwii-theme",
+      "name": "New Super Mario Bros. Wii Theme",
+      "type": "mod",
+      "version": "1",
+      "author": "KartMakerBrosU",
+      "description": "Replaces the New Super Mario Bros. U style with New Super Mario Bros. Wii, with updated tiles, tilesets, backgrounds and music.\n\nSource: https://gamebanana.com/mods/421748",
+      "download": "https://gamebanana.com/dl/919131",
+      "fileSize": 72536256,
+      "sha256": "4c682231682f835f2fbcf6b21cbb83adf1429a161f916cd0dbd79150c35fc042",
+      "tags": [
+        "theme",
+        "music"
+      ],
+      "releaseDate": "2023-01-11",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_63be5a8156a20.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/63be5a8156a20.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a8177330.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a8181d91.jpg",
+        "https://images.gamebanana.com/img/ss/mods/63be5a81917ca.jpg"
+      ]
+    },
+    {
+      "id": "smm-metroid-mod",
+      "name": "The Metroid Mod",
+      "type": "mod",
+      "version": "1.1.4",
+      "author": "Lakifume",
+      "description": "Replaces almost everything in the game to look and feel like classic Metroid. Covers Metroid, Metroid II, Super Metroid and AM2R, with as much accuracy to the original games as possible.\n\nSource: https://gamebanana.com/mods/50015",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/smm-metroid-mod.zip",
+      "fileSize": 456329130,
+      "sha256": "11ac6b60584d0f4783b73dd668239d92116b02f524ac4ddc600c443760db393d",
+      "tags": [
+        "theme",
+        "skin",
+        "music"
+      ],
+      "releaseDate": "2022-05-14",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f6a59a688331.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f6a59a688331.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5adc02afa.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad592a75.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f6a5ad798a1a.jpg"
+      ]
+    },
+    {
+      "id": "smm-unlock-all-costumes",
+      "name": "Unlock All Costumes",
+      "type": "mod",
+      "version": "2025.06.21",
+      "author": "NobleD4",
+      "description": "Unlocks Mystery Mushroom costumes 1 to 101 right away, and makes costumes 102 to 165 unlock in the 100 Mario Challenge (Easy).\n\nSource: https://gamebanana.com/mods/602041",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/smm-unlock-all-costumes.zip",
+      "fileSize": 27121867,
+      "sha256": "4fb37496bb9820eca39ce904b3d56f343a8c3b35dc80824fe2768bff7d9af5a2",
+      "tags": [
+        "unlock",
+        "costume"
+      ],
+      "releaseDate": "2025-06-21",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6856f13626866.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6856f13626866.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6856f142419bb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6856f12291058.jpg"
+      ]
+    }
+  ]
+}
