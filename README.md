@@ -40,6 +40,8 @@ Title IDs: `000500001010EB00`, `000500001010EC00`, `000500001010ED00`
 | [Bowsette](https://gamebanana.com/mods/172512) | Mod | 2018.10.04 | DarkyBenji | 11 MB |
 | [Waluigi Pinball](https://gamebanana.com/mods/149480) | Mod | 1.0.1 | Divengerss | 47 MB |
 | [Green Hill Zone](https://gamebanana.com/mods/382724) | Mod | 2022.06.10 | Squadaloo | 28 MB |
+| [Bowser Jr.](https://gamebanana.com/mods/172602) | Mod | 2017.06.25 | Darkness Illusion | 10 MB |
+| [Spongebob (over Lakitu)](https://gamebanana.com/mods/172446) | Mod | 2018.04.12 | kalomaze | 2 MB |
 
 ### Twilight Princess HD
 
@@ -55,6 +57,8 @@ Title IDs: `000500001019C800`, `000500001019E500`, `000500001019E600`
 | [PS5 DualSense Control Layout](https://gamebanana.com/mods/547823) | Mod | 2024.10.11 | CompC | 15 MB |
 | [Xbox Controller Buttons](https://gamebanana.com/mods/543255) | Mod | 2024.09.21 | jeicy03 | 12 MB |
 | [Canoe Dogs Restoration](https://gamebanana.com/mods/454590) | Mod | 2023.07.07 | Sven Cakemann | 5 MB |
+| [Xbox Control Layout](https://gamebanana.com/mods/547827) | Mod | 2 | CompC | 15 MB |
+| [PlayStation Controller Buttons](https://gamebanana.com/mods/524640) | Mod | 2024.06.29 | DePaw | 12 MB |
 
 ### The Wind Waker HD
 
@@ -68,6 +72,9 @@ Title IDs: `0005000010143400`, `0005000010143500`, `0005000010143600`
 | [Toon Imp Midna](https://gamebanana.com/mods/531825) | Mod | 1.2 | OniFox | 25 MB |
 | [Saria](https://gamebanana.com/mods/248073) | Mod | 2021.03.24 | SariaOfTheKokiri | 40 MB |
 | [Tan Zelda](https://gamebanana.com/mods/405462) | Mod | 3 | Zeldary | 7 MB |
+| [Xbox UI (Standard Layout)](https://gamebanana.com/mods/381969) | Mod | 1.2 | gee4 | 9 MB |
+| [Dark Link](https://gamebanana.com/mods/248072) | Mod | 2021.07.06 | Fangal_Airbag | 19 MB |
+| [Link with Red Clothes](https://gamebanana.com/mods/248071) | Mod | 2020.12.06 | Fangal_Airbag | 19 MB |
 
 ### New Super Mario Bros. U
 
@@ -106,6 +113,7 @@ Title IDs: `0005000010162B00`, `0005000010176900`, `0005000010176A00`
 | [The Splatlands Project](https://gamebanana.com/mods/599610) | Modpack | 4.0.0 | Claygolor | 685 MB |
 | [Splatoon 2 Map Ports](https://gamebanana.com/mods/356380) | Mod | 4.6 | YoshiCrystal | 726 MB |
 | [Playable Rival Octoling](https://gamebanana.com/mods/288292) | Mod | 1.2 | Mannta | 15 MB |
+| [Splatoon 2 DLC Octoling Ports](https://gamebanana.com/mods/250472) | Mod | 2018.06.04 | kalomaze | 15 MB |
 
 Splatoon+ and The Splatlands Project need the NoHash and Rival Unpatch Aroma plugins, which you install separately. Online play with any of these mods needs NoHash. Keep custom maps in Private Battles on Pretendo.
 
@@ -129,6 +137,9 @@ Title IDs: `0005000010106100`, `0005000010145C00`, `0005000010145D00`
 | [Toadette](https://gamebanana.com/mods/247916) | Mod | 2 | Insidious_NX | 52 MB |
 | [Switch Version Character Physics](https://gamebanana.com/mods/54745) | Mod | 2021.04.23 | Mamaluigi | 1 MB |
 | [Super Duper Mario 3D World (Worlds 1-2)](https://gamebanana.com/mods/317314) | Mod | 2021.09.28 | TurgsEpicYoutubeChannel | 137 MB |
+| [Super Trolly 3D World](https://gamebanana.com/mods/117637) | Mod | 0.35 | KingWhatThe | 6 MB |
+| [Classic Toad](https://gamebanana.com/mods/247915) | Mod | 2020.07.18 | k8ee_katt | 8 MB |
+| [Red Cat-Mario](https://gamebanana.com/mods/247907) | Mod | 2022.02.28 | Sven Cakemann | 1 MB |
 
 ### Super Mario Maker
 
@@ -140,6 +151,7 @@ Title IDs: `000500001018DB00`, `000500001018DC00`, `000500001018DD00`
 | [New Super Mario Bros. Wii Theme](https://gamebanana.com/mods/421748) | Mod | 1 | KartMakerBrosU | 69 MB |
 | [The Metroid Mod](https://gamebanana.com/mods/50015) | Mod | 1.1.4 | Lakifume | 435 MB |
 | [Unlock All Costumes](https://gamebanana.com/mods/602041) | Mod | 2025.06.21 | NobleD4 | 26 MB |
+| [Castle Bleck Theme](https://gamebanana.com/mods/248092) | Mod | 2017.05.30 | Mayro | 6 MB |
 
 ### Pikmin 3
 

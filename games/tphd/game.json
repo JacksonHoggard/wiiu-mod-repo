@@ -184,6 +184,51 @@
         "https://images.gamebanana.com/img/ss/mods/64a7736b816ef.jpg",
         "https://images.gamebanana.com/img/ss/mods/64a7736d51c95.jpg"
       ]
+    },
+    {
+      "id": "tphd-xbox-control-layout",
+      "name": "Xbox Control Layout",
+      "type": "mod",
+      "version": "2",
+      "author": "CompC",
+      "description": "Replaces the button icons with Xbox controller icons, keeping the original positions so the HUD stays laid out correctly (A/B and X/Y swapped).\n\nOnly use one button-icon mod at a time.\n\nSource: https://gamebanana.com/mods/547827",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/tphd-xbox-control-layout.zip",
+      "fileSize": 15638655,
+      "sha256": "b823b231a2399ef33cedf72b86c01fbd55e73a2d28c2c799c3d432de87eb7a4e",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2024-10-14",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_670d90eebba2a.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/670d90eebba2a.jpg",
+        "https://images.gamebanana.com/img/ss/mods/670d90eec02d2.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6708c01f5c9bb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/6708c079d495f.jpg"
+      ]
+    },
+    {
+      "id": "tphd-playstation-buttons",
+      "name": "PlayStation Controller Buttons",
+      "type": "mod",
+      "version": "2024.06.29",
+      "author": "DePaw",
+      "description": "Replaces the Wii U button icons with PlayStation icons: A becomes Circle, B Cross, X Triangle, Y Square, and L/R/ZL/ZR become L1/R1/L2/R2. The D-pad and stick icons are unchanged.\n\nOnly use one button-icon mod at a time.\n\nSource: https://gamebanana.com/mods/524640",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/tphd-playstation-buttons.zip",
+      "fileSize": 12670550,
+      "sha256": "47d4241d768cce20f19dd3096ef1c196fa9e30ea780fd36da1c7fe5936d4b80c",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2024-06-29",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_66801ba78366e.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/66801ba78366e.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66801bacb8a85.jpg",
+        "https://images.gamebanana.com/img/ss/mods/66801be69b1e0.jpg"
+      ]
     }
   ]
 }

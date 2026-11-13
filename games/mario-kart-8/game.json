@@ -217,6 +217,52 @@
         "https://images.gamebanana.com/img/ss/mods/62a2bc3ece758.jpg",
         "https://images.gamebanana.com/img/ss/mods/62a2bc3f1f9c5.jpg"
       ]
+    },
+    {
+      "id": "mk8-bowser-jr",
+      "name": "Bowser Jr.",
+      "type": "mod",
+      "version": "2017.06.25",
+      "author": "Darkness Illusion",
+      "description": "Replaces Larry Koopa with Bowser Jr.\n\nIncludes his voice, standard kart and glider colors, emblem, GamePad horn, icons and in-game name. This package uses the default costume; the original download also has bandana and Super Mario Sunshine bandana alternates.\n\nSource: https://gamebanana.com/mods/172602",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/mk8-bowser-jr.zip",
+      "fileSize": 10092413,
+      "sha256": "aadc1e81302f2d0294a69b7455bc3eb54941902a653a981d36a1acd1c2d15a21",
+      "tags": [
+        "skin",
+        "character",
+        "audio"
+      ],
+      "releaseDate": "2017-06-25",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_594e979ea0b24.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/594e979ea0b24.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594e964872663.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594e965a3e917.jpg",
+        "https://images.gamebanana.com/img/ss/mods/594e96668f7bb.jpg"
+      ]
+    },
+    {
+      "id": "mk8-spongebob",
+      "name": "Spongebob (over Lakitu)",
+      "type": "mod",
+      "version": "2018.04.12",
+      "author": "kalomaze",
+      "description": "Replaces Lakitu with Spongebob SquarePants on his cloud.\n\nSource: https://gamebanana.com/mods/172446",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/mk8-spongebob.zip",
+      "fileSize": 1961510,
+      "sha256": "01b4a521e10213f15c999518101f3473a591de1ef43781cf5f7fa18a6faf3a30",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2018-04-12",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaec889b71.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaeec5e0b0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaf03b6aa0.jpg"
+      ]
     }
   ]
 }

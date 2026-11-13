@@ -119,6 +119,72 @@
         "https://images.gamebanana.com/img/ss/mods/6128e1f84ffa4.jpg",
         "https://images.gamebanana.com/img/ss/mods/6128e1f970b3e.jpg"
       ]
+    },
+    {
+      "id": "sm3dw-super-trolly",
+      "name": "Super Trolly 3D World",
+      "type": "mod",
+      "version": "0.35",
+      "author": "KingWhatThe",
+      "description": "A troll level hack inspired by the troll levels in Super Mario Maker 2. Only one level so far.\n\nPlay on a 0% save file, or the level design may break. US English only. The author hasn't tested it on console.\n\nSource: https://gamebanana.com/mods/117637",
+      "download": "https://gamebanana.com/dl/583692",
+      "fileSize": 6391556,
+      "sha256": "19eb35933c4380e44bf819b6e8fb38f1e0655ecc13fdc5df1008dff74f824217",
+      "tags": [
+        "levels"
+      ],
+      "releaseDate": "2021-06-02",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_6095534a1e4bb.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6095534a1e4bb.jpg",
+        "https://images.gamebanana.com/img/ss/mods/608b07117b6b3.jpg",
+        "https://images.gamebanana.com/img/ss/mods/608b070b27f29.jpg"
+      ]
+    },
+    {
+      "id": "sm3dw-classic-toad",
+      "name": "Classic Toad",
+      "type": "mod",
+      "version": "2020.07.18",
+      "author": "k8ee_katt",
+      "description": "Retextures Blue Toad as the classic Toad, with red spots and a blue vest. US English only.\n\nSource: https://gamebanana.com/mods/247915",
+      "download": "https://gamebanana.com/dl/473786",
+      "fileSize": 8537362,
+      "sha256": "05897bb1cadc729f42c24cc4a16522643ea6d030e174bd2a74e0ad47e88f03b5",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2020-07-18",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f0a296f67a10.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f0a296f67a10.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f0a29e6b38da.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f0a29e74e651.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f0a29e74f197.jpg"
+      ]
+    },
+    {
+      "id": "sm3dw-red-cat-mario",
+      "name": "Red Cat-Mario",
+      "type": "mod",
+      "version": "2022.02.28",
+      "author": "Sven Cakemann",
+      "description": "Recolors Cat Mario's fur from yellow to red.\n\nSource: https://gamebanana.com/mods/247907",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/sm3dw-red-cat-mario.zip",
+      "fileSize": 648984,
+      "sha256": "7645484d63fcc60b789cb972218a38f27c15e3c794488370761bf12ab6735585",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2022-02-28",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_62196ba3d4c40.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/62196ba3d4c40.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62196ba4c8c9f.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62196ba550d14.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5a0a121921a38.jpg"
+      ]
     }
   ]
 }

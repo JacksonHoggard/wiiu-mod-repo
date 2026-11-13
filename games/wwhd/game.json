@@ -140,6 +140,74 @@
         "https://images.gamebanana.com/img/ss/mods/65f711efa733d.jpg",
         "https://images.gamebanana.com/img/ss/mods/65f711efaa518.jpg"
       ]
+    },
+    {
+      "id": "wwhd-xbox-ui",
+      "name": "Xbox UI (Standard Layout)",
+      "type": "mod",
+      "version": "1.2",
+      "author": "gee4",
+      "description": "Replaces the button icons with Xbox controller icons, including the pause menu and message boxes. Standard layout, matching the Wii U button positions.\n\nUS English only.\n\nSource: https://gamebanana.com/mods/381969",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-xbox-ui.zip",
+      "fileSize": 9639674,
+      "sha256": "63641fb6f39c40819acb4e0a8747d207d4c906ff14bcfab7f4e274f3afb0bea5",
+      "tags": [
+        "ui",
+        "buttons"
+      ],
+      "releaseDate": "2022-09-25",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_62a162a103608.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/62a162a103608.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62a1603f20b41.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62a2caa1092de.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62a1603eef4e1.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-dark-link",
+      "name": "Dark Link",
+      "type": "mod",
+      "version": "2021.07.06",
+      "author": "Fangal_Airbag",
+      "description": "Recolors Link as Dark Link, inspired by Toon Link's alternate costume in Smash.\n\nThe author only tested it in Cemu. Can't be combined with other mods that replace permanent_3d.pack (Linkle, Saria, Link with Red Clothes).\n\nSource: https://gamebanana.com/mods/248072",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-dark-link.zip",
+      "fileSize": 20144221,
+      "sha256": "95f4dfa371a21a79f198e32533e6f5727624be2773e502a2a1e2c41b4c651800",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2021-07-06",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5fcedb0fe4f68.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5fcedb0fe4f68.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5fcedb31c8374.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5fcedb337fb44.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5fcedb41b15a1.jpg"
+      ]
+    },
+    {
+      "id": "wwhd-red-link",
+      "name": "Link with Red Clothes",
+      "type": "mod",
+      "version": "2020.12.06",
+      "author": "Fangal_Airbag",
+      "description": "Recolors Link's clothes red.\n\nCan't be combined with other mods that replace permanent_3d.pack (Linkle, Saria, Dark Link).\n\nSource: https://gamebanana.com/mods/248071",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/wwhd-red-link.zip",
+      "fileSize": 19981584,
+      "sha256": "b830d2d2261f29e6c723f7fc61b811fadb0476a59973823c784d12c80e0e1025",
+      "tags": [
+        "skin"
+      ],
+      "releaseDate": "2020-12-06",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5f64cc45c136c.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5f64cc45c136c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f64cc74ee4fd.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f64cc7265b96.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5f64cc75a4ad6.jpg"
+      ]
     }
   ]
 }

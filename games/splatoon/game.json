@@ -111,6 +111,28 @@
         "https://images.gamebanana.com/img/ss/mods/65a9c7a881798.jpg",
         "https://images.gamebanana.com/img/ss/mods/65a9c7b2e5479.jpg"
       ]
+    },
+    {
+      "id": "splatoon-octoling-ports",
+      "name": "Splatoon 2 DLC Octoling Ports",
+      "type": "mod",
+      "version": "2018.06.04",
+      "author": "kalomaze",
+      "description": "Replaces the Inklings with the Octolings from the Splatoon 2 Octo Expansion. Both boys and girls become Octolings, since there's no boy Octoling.\n\nTo get the Octoling hair, wear the Sporty Bobble Hat (boy) or the Bobble Hat (girl).\n\nSource: https://gamebanana.com/mods/250472",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/splatoon-octoling-ports.zip",
+      "fileSize": 15335950,
+      "sha256": "2534c7a38f1695438c0932f1e37cb090920ef8fc264876884b3523ec6b1aa470",
+      "tags": [
+        "skin",
+        "character"
+      ],
+      "releaseDate": "2018-06-04",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/530-90_5b0a0e807c117.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5b0a0e807c117.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b0a0eba81130.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b0a0fe563323.jpg"
+      ]
     }
   ]
 }

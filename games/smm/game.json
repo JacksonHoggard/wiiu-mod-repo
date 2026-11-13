@@ -97,6 +97,28 @@
         "https://images.gamebanana.com/img/ss/mods/6856f142419bb.jpg",
         "https://images.gamebanana.com/img/ss/mods/6856f12291058.jpg"
       ]
+    },
+    {
+      "id": "smm-castle-bleck",
+      "name": "Castle Bleck Theme",
+      "type": "mod",
+      "version": "2017.05.30",
+      "author": "Mayro",
+      "description": "Replaces the Super Mario Bros. underground theme and its music with Castle Bleck from Super Paper Mario. The edit-mode music is unchanged.\n\nSource: https://gamebanana.com/mods/248092",
+      "download": "https://github.com/JacksonHoggard/wiiu-mod-repo/releases/download/mods-v1/smm-castle-bleck.zip",
+      "fileSize": 6024258,
+      "sha256": "67ff8353366ca0a19c264302bdf28c84b60ad499598ebd72cbaf2cbcba842f08",
+      "tags": [
+        "theme",
+        "music"
+      ],
+      "releaseDate": "2017-05-30",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/592d7de728e2d.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/592d7de728e2d.jpg",
+        "https://images.gamebanana.com/img/ss/mods/592d786b92437.jpg",
+        "https://images.gamebanana.com/img/ss/mods/592d787173942.jpg"
+      ]
     }
   ]
 }
